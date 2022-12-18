@@ -1,0 +1,20 @@
+Execution time for SVM with 1:10 class weight, for tf-idf embeddings 80.26183295249939
+F1 mean svm 1:10 _tfidf:  0.27037035993014685
+accuracy mean svm 1:10 _tfidf:  0.978437107732821
+F1 mean svm 1:10 _tfidf:  0.27037035993014685
+accuracy mean svm 1:10 _tfidf:  0.978437107732821
+Execution time for SVM with None class weight, for tf-idf embeddings 52.63489270210266
+Execution time for SVM with balanced class weight, for tf-idf embeddings 635.5072479248047
+Execution time for SVM with 1:10 class weight, for tf-idf embeddings 79.54825496673584
+F1 mean cw none, tfidf:  0.5877802188857795
+accuracy mean cw none, tfidf:  0.9922672261225535
+F1 mean for bal class wt, tfidf:  0.7082311904154398
+accuracy mean for bal class wt, tfidf:  0.9839001006188077
+F1 mean svm 1:10 _tfidf:  0.8484932092921239
+accuracy mean svm 1:10 _tfidf:  0.9885468693443779
+F1 mean cw none, tfidf:  0.5877802188857795
+accuracy mean cw none, tfidf:  0.9922672261225535
+F1 mean for bal class wt, tfidf:  0.7082311904154398
+accuracy mean for bal class wt, tfidf:  0.9839001006188077
+F1 mean svm 1:10 _tfidf:  0.8484932092921239
+accuracy mean svm 1:10 _tfidf:  0.9885468693443779

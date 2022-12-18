@@ -1,0 +1,27 @@
+Execution time for NB with alpha = 0.01, for tf-idf embeddings 2.756524085998535
+Execution time for NB with alpha 0.0001, for tf-idf embeddings 2.8445687294006348
+F1 mean for small alpha, nb, tfidf  0.17573056238986245
+accuracy mean for small alpha, nb, tfidf  0.9827231085052267
+F1 mean for small alpha, nb, tfidf  0.17573056238986245
+accuracy mean for small alpha, nb, tfidf  0.9827231085052267
+Execution time for NB with alpha 0.0001, for tf-idf embeddings 2.72495698928833
+F1 mean for small alpha, nb, tfidf  0.17573056238986245
+accuracy mean for small alpha, nb, tfidf  0.9827231085052267
+F1 mean for small alpha, nb, tfidf  0.6693138748301204
+accuracy mean for small alpha, nb, tfidf  0.9914262704316644
+Execution time for NB with alpha = 0.01, for tf-idf embeddings 2.8353800773620605
+Execution time for NB with alpha = 1, for tf-idf embeddings 2.934760093688965
+Execution time for NB with alpha = 0.01, for tf-idf embeddings 2.7319560050964355
+Execution time for NB with alpha 0.0001, for tf-idf embeddings 3.0765039920806885
+F1 mean for large alpha, nb, tfidf:  0.03177032760672381
+accuracy mean for large alpha, nb, tfidf:  0.9847340621220356
+F1 mean for med alpha, nb, tfidf:  0.4837727620226892
+accuracy mean for med alpha, nb, tfidf  0.9910698635840923
+F1 mean for small alpha, nb, tfidf  0.6693138748301204
+accuracy mean for small alpha, nb, tfidf  0.9914262704316644
+F1 mean for large alpha, nb, tfidf:  0.03177032760672381
+accuracy mean for large alpha, nb, tfidf:  0.9847340621220356
+F1 mean for med alpha, nb, tfidf:  0.4837727620226892
+accuracy mean for med alpha, nb, tfidf  0.9910698635840923
+F1 mean for small alpha, nb, tfidf  0.6693138748301204
+accuracy mean for small alpha, nb, tfidf  0.9914262704316644

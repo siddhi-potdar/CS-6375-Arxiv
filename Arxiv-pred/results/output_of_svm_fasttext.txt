@@ -1,0 +1,16 @@
+F1 mean for 1:10 for fasttext:  0.21834541200557597
+accuracy mean for 1:10 for fasttext:  0.9655094184816108
+F1 mean for 1:10 for fasttext:  0.21834541200557597
+accuracy mean for 1:10 for fasttext:  0.9655094184816108
+F1 mean for none for fasttext:  0.07888008261178411
+accuracy mean for none for fasttext:  0.9849345241660428
+F1 mean for balanced for fasttext:  0.11993337359761268
+accuracy mean for balanced for fasttext:  0.8861363821621286
+F1 mean for 1:10 for fasttext:  0.21834541200557597
+accuracy mean for 1:10 for fasttext:  0.9655094184816108
+F1 mean for none for fasttext:  0.07888008261178411
+accuracy mean for none for fasttext:  0.9849345241660428
+F1 mean for balanced for fasttext:  0.11993337359761268
+accuracy mean for balanced for fasttext:  0.8861363821621286
+F1 mean for 1:10 for fasttext:  0.21834541200557597
+accuracy mean for 1:10 for fasttext:  0.9655094184816108

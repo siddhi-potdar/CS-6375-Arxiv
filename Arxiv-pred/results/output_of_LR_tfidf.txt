@@ -1,0 +1,14 @@
+Execution time for log reg with balanced class weight, for tf-idf embeddings 159.59523725509644
+F1 mean for med C, LR, tfidf:  0.18513852435008132
+accuracy mean for med C, LR, tfidf  0.9467640147354803
+F1 mean for med C, LR, tfidf:  0.18513852435008132
+accuracy mean for med C, LR, tfidf  0.9467640147354803
+Execution time for log reg with balanced class weight, for tf-idf embeddings 165.40775179862976
+Execution time for log reg with None class weight, for tf-idf embeddings_newton 111.99752497673035
+Execution time for LR with 1:10 wt , for tf-idf embeddings 137.37812685966492
+F1 mean for large C, LR, tfidf:  0.009000915166352687
+accuracy mean for large C, LR, tfidf:  0.9828989568359855
+F1 mean for small C, LR, tfidf  0.13808952311964479
+accuracy mean for small C, LR, tfidf  0.9737189971032871
+F1 mean for med C, LR, tfidf:  0.18513852435008132
+accuracy mean for med C, LR, tfidf  0.9467640147354803
