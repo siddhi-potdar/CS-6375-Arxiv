@@ -1,9 +1,0 @@
-Execution time for NB with alpha = 1, for tf-idf embeddings 2.701284646987915
-Execution time for NB with alpha = 0.01, for tf-idf embeddings 2.550909996032715
-Execution time for NB with alpha 0.0001, for tf-idf embeddings 2.552326202392578
-F1 mean for large alpha, nb, tfidf:  0.027392474157460572
-accuracy mean for large alpha, nb, tfidf:  0.984274873197483
-F1 mean for med alpha, nb, tfidf:  0.16815914027108722
-accuracy mean for med alpha, nb, tfidf  0.9834868432177613
-F1 mean for small alpha, nb, tfidf  0.17841668427064392
-accuracy mean for small alpha, nb, tfidf  0.9828963928747749

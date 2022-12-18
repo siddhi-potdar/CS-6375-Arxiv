@@ -1,9 +1,0 @@
-Execution time for SVM with None class weight, for tf-idf embeddings 361.67913913726807
-Execution time for SVM with balanced class weight, for tf-idf embeddings 342.42930698394775
-Execution time for LR with 0.001 C , for tf-idf embeddings 364.626610994339
-F1 mean for large C, LR, tfidf:  0.1542666042384617
-accuracy mean for large C, LR, tfidf:  0.9871165108300721
-F1 mean for med C, LR, tfidf:  0.06776374551388767
-accuracy mean for med C, LR, tfidf  0.9854477638981826
-F1 mean for small C, LR, tfidf  2.01165249708939e-06
-accuracy mean for small C, LR, tfidf  0.982093868635987
